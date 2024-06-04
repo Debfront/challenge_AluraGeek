@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge AluraGeek</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header">
+            <img src="img/Logo.png" alt="Logo da AluraGeek" height="54px">
+        </div>
+    </header>
+    <main>
+        <div class="sessoes">
+            <section class="meus_produtos">
+                <h1>Meus produtos:</h1>
+
+                 <div data-product class="products-container">
+                
+                 </div>
+            </section>
+
+            <section class="adicionar_produtos">
+               <h1>Adicionar<br> Produtos:</h1>
+               <form class="form-container" data-form>
+                  <input data-name placeholder="nome..." type="text" class="input-form">
+                  <input data-price placeholder="preço..." type="text" class="input-form">
+                  <input data-image placeholder="imagem..." type="text" class="input-form">
+                 
+                <div class="button-container">
+                   <button type="submit" class="button-submit" id="button">Guardar</button>
+                   <button type="reset" class="button-clear" id="button">Limpar</button>
+                </div>
+
+               </form>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+       <img src="img/Logo.png" alt="" class="img-footer">
+       <h2> Desenvolvido por Débora Monteiro</h2>
+        <h2>Alura Latam- 2024</h2>
+    </footer>
+    
+   <script type="module" src="js/controllers/main.js"></script>
+</body>
+</html>
+
+
