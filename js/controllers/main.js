@@ -1,7 +1,8 @@
-import {servicesProducts} from "../services/products-services.js";
+import { servicesProducts } from "../services/products-services.js";
 
 
 const productsContainer = document.querySelector("[data-product]");
+const form = document.querySelector("[data-form]");
 
 function createElement(name, price, image, id) {
     const card = document.createElement("div");
@@ -9,7 +10,7 @@ function createElement(name, price, image, id) {
 
     card.innerHTML = `
     <div class="img-container">
-
+    <img src="${image}" alt="Logo da AluraGeek" height="54px">
   </div>
   
   <div class="card-container--info">
@@ -22,14 +23,14 @@ function createElement(name, price, image, id) {
       </div>
   </div>    `;
 
-  productsContainer.appendChild(card);
-  return card;
+    productsContainer.appendChild(card);
+    return card;
 }
 
 const render = async () => {
     try {
         const listProduct = await servicesProducts.productList();
-     
+
         listProduct.forEach(product => {
             productsContainer.appendChild(
                 createElement(
@@ -41,9 +42,23 @@ const render = async () => {
             )
         });
 
+
     } catch (error) {
         console.log(error);
     }
 }
+
+form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const name = document.querySelector("[data-name]").value;
+    const price = document.querySelector("[data-price]").value;
+    const image = document.querySelector("[data-image]").value;
+
+    servicesProducts.createProduct(name, price, image)
+    .then((res) => console.log(res))
+    .catch((err)=> console.log(err))
+    
+    alert('Produto adicionado com sucesso');
+})
 
 render();

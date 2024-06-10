@@ -1,69 +1,70 @@
-
 {
-    "products": [
-        {
-            "name": "Darth Vader",
-            "price": "50",
-            "image": "https://i.pinimg.com/474x/51/e3/7c/51e37c2b688170cdc07888eba287bfd1.jpg",
-            "id": 1
-        },
-        
-        {
-            "name": "Flash",
-            "price": "25",
-            "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/Flash_%28Barry_Allen%29.png",
-            "id": 2
-        },
-        
-        {
-            "name": "Batman",
-            "price": "35",
-            "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-            "id": 3
-        },
-        
-        {
-            "name": "Batman",
-            "price": "35",
-            "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-            "id": 4
-        },
-
-        {
-            "name": "Batman",
-            "price": "35",
-            "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-            "id": 3
-        },
-        {
-            "name": "Batman",
-            "price": "35",
-            "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-            "id": 3
-        },
-        {
-            "name": "Batman",
-            "price": "35",
-            "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-            "id": 3
-        },
-        {
-            "name": "Batman",
-            "price": "35",
-            "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-            "id": 3
-        },
-        {
-            "name": "Batman",
-            "price": "35",
-            "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-            "id": 3
-        }
-     
-        ]
+  "products": [
+    {
+      "name": "Darth Vader",
+      "price": "50",
+      "image": "https://i.pinimg.com/474x/51/e3/7c/51e37c2b688170cdc07888eba287bfd1.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Flash",
+      "price": "25",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/Flash_%28Barry_Allen%29.png",
+      "id": "2"
+    },
+    {
+      "name": "Batman",
+      "price": "35",
+      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Batman",
+      "price": "35",
+      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Batman",
+      "price": "35",
+      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Batman",
+      "price": "35",
+      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Batman",
+      "price": "35",
+      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Batman",
+      "price": "35",
+      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Batman",
+      "price": "35",
+      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "id": "3"
+    },
+    {
+      "id": "4ce4",
+      "name": "hulk",
+      "price": "25",
+      "image": "https://mimo.toys/wp-content/uploads/2020/04/551-Boneco-HULK-COMICS-e1588191683593.jpg"
+    },
+    {
+      "id": "b454",
+      "name": "hulk",
+      "price": "25",
+      "image": "https://mimo.toys/wp-content/uploads/2020/04/551-Boneco-HULK-COMICS-e1588191683593.jpg"
+    }
+  ]
 }
-
-
-
-
-

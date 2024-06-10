@@ -106,6 +106,7 @@ input::placeholder{
   font-size: 20px;
   font-family: "IBM Plex Mono", monospace;
   font-weight: bold;
+  cursor: pointer;
 
 }
 
@@ -118,6 +119,7 @@ input::placeholder{
   font-family: "IBM Plex Mono", monospace;
   font-weight: bold;
   font-size: 20px;
+  cursor: pointer;
 
 }
 
