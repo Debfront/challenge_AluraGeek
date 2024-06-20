@@ -1,70 +1,40 @@
 {
   "products": [
     {
-      "name": "Darth Vader",
-      "price": "50",
-      "image": "https://i.pinimg.com/474x/51/e3/7c/51e37c2b688170cdc07888eba287bfd1.jpg",
+      "name": "Bulbasaur",
+      "price": "40",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfaclSlk2r66bbWERGnl22DK3rzT3AKdtdMw&s",
       "id": "1"
     },
     {
-      "name": "Flash",
-      "price": "25",
-      "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/Flash_%28Barry_Allen%29.png",
+      "name": "Squirtle",
+      "price": "35",
+      "image": "https://i.pinimg.com/736x/61/c0/b0/61c0b0b274f16137a799e3dd4f8d4323.jpg",
       "id": "2"
     },
     {
-      "name": "Batman",
-      "price": "35",
-      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "name": "Charmander",
+      "price": "37",
+      "image": "https://www.pngmart.com/files/22/Charmander-Pokemon-PNG-Free-Download.png",
       "id": "3"
     },
     {
-      "name": "Batman",
-      "price": "35",
-      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-      "id": "4"
-    },
-    {
-      "name": "Batman",
-      "price": "35",
-      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "name": "Pikachu",
+      "price": "50",
+      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/025.png",
       "id": "3"
     },
     {
-      "name": "Batman",
-      "price": "35",
-      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
+      "name": "Eevee",
+      "price": "30",
+      "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/133.png",
       "id": "3"
     },
     {
-      "name": "Batman",
-      "price": "35",
-      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-      "id": "3"
-    },
-    {
-      "name": "Batman",
-      "price": "35",
-      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-      "id": "3"
-    },
-    {
-      "name": "Batman",
-      "price": "35",
-      "image": "https://e0.pxfuel.com/wallpapers/939/104/desktop-wallpaper-christian-bale-the-dark-knight-superheroes-digital-art-behance-batm-batman-superhero-art-thumbnail.jpg",
-      "id": "3"
-    },
-    {
-      "id": "4ce4",
-      "name": "hulk",
+      "name": "Pokebola",
       "price": "25",
-      "image": "https://mimo.toys/wp-content/uploads/2020/04/551-Boneco-HULK-COMICS-e1588191683593.jpg"
-    },
-    {
-      "id": "b454",
-      "name": "hulk",
-      "price": "25",
-      "image": "https://mimo.toys/wp-content/uploads/2020/04/551-Boneco-HULK-COMICS-e1588191683593.jpg"
+      "image": "https://w7.pngwing.com/pngs/16/895/png-transparent-poke-ball-pokemon-go-pokemon-go-3d-computer-graphics-image-file-formats-desktop-wallpaper.png",
+      "id": "3"
     }
   ]
 }
